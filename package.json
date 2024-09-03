@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-docker-kb-demo",
+  "version": "1.0.0",
+  "description": "Node.js Docker KB demonstration",
+  "author": "Folley <aristotepascaldjounda@gmail.com>",
+  "license": "MIT",
+  "main": "app.js",
+  "keywords": ["nodejs", "kb", "docker"],
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
